@@ -1,0 +1,1 @@
+A bunch of Programming Paradigms labs. FCSC 2022
